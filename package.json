@@ -8,5 +8,8 @@
   "publishConfig": {
     "access": "public"
   },
+  "scripts": {
+    "build": "bundle exec jekyll build -s src -d docs -I"
+  },
   "main": "index.js"
 }
