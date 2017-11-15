@@ -1,0 +1,12 @@
+{
+  "name": "site-onibushacker",
+  "version": "0.1.0",
+  "description": "Another attempt at creating a site for the Onibus Hacker project",
+  "author": "Onibus Hacker and AUTHORS",
+  "repository": "https://github.com/onibushacker/site2017-2018.git",
+  "license": "AGPL-3.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js"
+}
