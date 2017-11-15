@@ -5,11 +5,12 @@
   "author": "Onibus Hacker and AUTHORS",
   "repository": "https://github.com/onibushacker/site2017-2018.git",
   "license": "AGPL-3.0",
+  "scripts": {
+    "build": "bundle exec jekyll build -s src -d docs -I --config src/_config-base.yml,src/_config-prod.yml",
+    "serve": "bundle exec jekyll serve -w -s src --config src/_config-base.yml"
+  },
   "publishConfig": {
     "access": "public"
-  },
-  "scripts": {
-    "build": "bundle exec jekyll build -s src -d docs -I"
   },
   "main": "index.js"
 }
