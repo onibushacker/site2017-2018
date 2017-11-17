@@ -6,8 +6,8 @@
   "repository": "https://github.com/onibushacker/site2017-2018.git",
   "license": "AGPL-3.0",
   "scripts": {
-    "build": "bundle exec jekyll build -s src -d docs -I --config src/_config-base.yml,src/_config-prod.yml",
-    "serve": "bundle exec jekyll serve -w -s src --config src/_config-base.yml"
+    "build": "bundle exec jekyll build -s src -d docs --config src/_config.yml",
+    "serve": "bundle exec jekyll serve -w -s src --config src/_config.yml"
   },
   "publishConfig": {
     "access": "public"
