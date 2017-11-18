@@ -8,7 +8,7 @@ permalink: /sobre/
 
 Acreditamos que a troca de conhecimentos e experiências é o que faz a vida ter sentido, a curiosidade é o grande motor que faz nossa espécie encontrar caminhos que desrespeitam as fronteiras dos nossos limites biológicos e nos permite explorarmos distâncias cada vez mais impensáveis.
 
-> “erro erro erro, teimosia ... falta de noção” — Evelyn Gomes
+> “erro erro erro, teimosia ... falta de noção” — [Capi Etheriel](https://github.com/onibushacker/hino/issues/1#issue-98389315)
 
 Trabalhamos voluntariamente há 6 anos para uma instituição estranha chamada Ônibus Hacker, que promove essas trocas de conhecimento por meio de viagens. Ela é um ônibus antigo cheio de ferramentas para ações em espaços públicos, e organiza suas viagens usando um modelo aberto e acessível de chamadas públicas via internet. Por ser um ônibus esta instituição exige um trabalho constante e custoso de manutenção, e a qualidade e frequencia dessa manutenção é o que determina o quão frequente e o quanto ousadas podem ser essas viagens.
 
