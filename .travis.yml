@@ -1,0 +1,17 @@
+language: node_js
+node_js:
+  - '8'
+after_success:
+  - bundle check || bundle install
+  - npm run build 
+  - git checkout docs/CNAME
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: docs
+  fqdn: onibushacker.com
+  email: onibushacker@protonmail.com
+  name: Onibus Hacker Bot
+  on:
+    branch: master
