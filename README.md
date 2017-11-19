@@ -26,10 +26,10 @@ jogam código e conteúdo para um outro site, uma outra história.
 
 ## Como participar
 
-Você pode aparecer na [sala de chat "websites"][matrixroom], e dar um olá.
-Você pode navegar pela [lista de pendências][issues] e deixar um comentário, ou [abrir uma nova][newissue] sugerindo qualquer mudança ou melhoria.
-Você pode navegar pelos diferentes [projetos][projects] relacionados a este esforço.
-Você pode inclusive ["forkar"][fork] esse repositório e fazer um site derivado. A [licença][license] respeita essa sua liberdade.
+Você pode aparecer na [sala de chat "websites"][matrixroom], e dar um olá;
+Você pode navegar pela [lista de pendências][issues] e deixar um comentário, ou [abrir uma nova][newissue] sugerindo qualquer mudança ou melhoria;
+Você pode navegar pelos diferentes [projetos][projects] relacionados a este esforço;
+Você pode inclusive "forkar" esse repositório e fazer um site derivado. A [licença][license] respeita essa sua liberdade.
 
 E se nenhuma das acimas te parece interessante, você pode [escrever um email][mailinglist] para o grupo.
 
@@ -38,6 +38,5 @@ E se nenhuma das acimas te parece interessante, você pode [escrever um email][m
 [newissue]: https://github.com/onibushacker/site2017-2018/issues/new
 [issues]: https://github.com/onibushacker/site2017-2018/issues
 [projects]: https://github.com/onibushacker/site2017-2018/projects
-[fork]: https://github.com/onibushacker/site2017-2018#fork-destination-box
 [mailinglist]: https://groups.google.com/forum/#!forum/onibushacker
 [license]: https://github.com/onibushacker/site2017-2018/blob/master/LICENSE
