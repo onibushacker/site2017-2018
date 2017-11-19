@@ -6,7 +6,7 @@ permalink: /sobre/
 
 > “I need my paddles!” — Dustin Henderson
 
-Acreditamos que a troca de conhecimentos e experiências é o que faz a vida ter sentido, a curiosidade é o grande motor que faz nossa espécie encontrar caminhos que desrespeitam as fronteiras dos nossos limites biológicos e nos permite explorarmos distâncias cada vez mais impensáveis.
+Acreditamos que a troca de conhecimentos e experiências é o que faz a vida ter sentido, a curiosidade é o grande motor que faz nossa espécie encontrar caminhos que desrespeitam as fronteiras dos nossos limites biológicos e nos permite explorar distâncias cada vez mais impensáveis.
 
 > “erro erro erro, teimosia ... falta de noção” — Evelyn Gomes
 
